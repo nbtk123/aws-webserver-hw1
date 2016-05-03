@@ -7,7 +7,3 @@ Link:
 https://nbtkblog.wordpress.com/node-js-aws-tutorial-part-1/
 
 https://nbtkblog.wordpress.com/node-js-aws-tutorial-part-2-node-js-code/
-
-Source code:
-
-https://github.com/nbtk123/aws-webserver-hw1
