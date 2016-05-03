@@ -1,0 +1,17 @@
+{
+  "name": "hw1-app",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "nbtk123",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "gm": "^1.22.0",
+    "multer": "^1.1.0"
+  }
+}
